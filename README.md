@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Disha, a sophomore, a complete beginner at programming, but eager to learn!
 <!--
 **dishap22/dishap22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
