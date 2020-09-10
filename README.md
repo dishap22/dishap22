@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Disha, a sophomore, a complete beginner at programming, but eager to learn!
 <!--
 **dishap22/dishap22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +15,3 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishap22&layout=compact)](https://github.com/dishap22)
-
-<br> 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vni3elr81wo0dyikjiy0jckvg&cover_image=true)](https://open.spotify.com/user/vni3elr81wo0dyikjiy0jckvg?si=8ZFMyXbLTPWdaIxVYUVnTA)
