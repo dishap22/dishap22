@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-<!-- ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dishap22) -->
+ ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dishap22) 
