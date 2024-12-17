@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -32,4 +31,7 @@ Here are some ideas to get you started:
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
- ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dishap22) 
+ ![Stats]( https://github-readme-stats.vercel.app/api/top-langs?username=dishap22&show_icons=true&locale=en&layout=compact
+) 
+
+![](https://komarev.com/ghpvc/?username=dishap22)
